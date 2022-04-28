@@ -4,7 +4,7 @@
  * @author Jade Singer
  *
  */
-public class MinimaxPlayer implements Player{
+public class MinimaxPlayer implements Player{ //worked together on this do not know why it acts different then your code which is the same
 	
 	int id;
 	int cols;
